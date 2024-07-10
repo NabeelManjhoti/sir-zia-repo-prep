@@ -1,3 +1,0 @@
-1: Json Kiya he?.
-
-  Json ek text baised format he jo ke data ko store or transfer karne me use hota he. insano ke liye isko parhna or likhna asan ho jata he or machines ke liye 
